@@ -1,7 +1,7 @@
 # ThriftPay - Subscriptionless AD Data Ownership
 
 ## Team ThriftPay
-Location: Web3 Hackathon 2023, Dogpath Labs, Dublin
+Location: Web3 Hackathon 2023, Dogpatch Labs, Dublin
 
 ### 🤝 Connect with us:
 

@@ -15,7 +15,7 @@ Our Mission is to democratise content, eliminate paywalls and grow the web3 gene
 
 ### 🤝 Connect with us:
 
-| <!-- -->    | <!-- -->    |
+| Team Member   | Socials    |
 |-------------|-------------|
 | Gonzalo Faura | <a href="https://twitter.com/GonFaura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gonfaura" height="30" width="40" /></a><a href="https://www.linkedin.com/in/gonzalofaura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonfaura" height="30" width="40" /></a><a href="https://discord.gg/gon#3775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gon#3775" height="30" width="40" /></a> |
 | Kieran Mc Gowan |  |

@@ -23,5 +23,17 @@ Our Mission is to democratise content, eliminate paywalls and grow the web3 gene
 | Vinit Saini | <a href="https://twitter.com/vinit_saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinitsaini" height="30" width="40" /></a><a href="linkedin.com/in/vinit-saini-9ba9b028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinitsaini" height="30" width="40" /></a><a href="https://discord.gg/vinit#3651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vinit#3651" height="30" width="40" /></a> |
 | Akash Kulkarni | <a href="https://twitter.com/AkashKu00756128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashkulkarni" height="30" width="40" /></a><a href="https://www.linkedin.com/in/akash-kulkarni-78b998152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkulkarni" height="30" width="40" /></a><a href="https://discord.gg/Akash#7817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Akash#7817" height="30" width="40" /></a> |
 
+<br/><br/>
 
+### Extra Challenge - IRL Track 2 SOCIAL IMPACT (Irish Aid Submission)
+
+Imagine a world where every transaction contributes to social good. 
+
+With ThriftPay, we can make this a reality. By leveraging decentralized networks, blockchain technology, and smart contracts, funds can be automatically diverted to charities with transparency and accountability with the permission of the end user. Each transaction becomes an opportunity to support causes that matter, from Rapid Response to humanitarian emergency situations and poverty alleviation. 
+
+With the power of web3, individuals and organizations can actively participate in shaping a better future. Together, we can revolutionize the way we give back, ensuring that every financial interaction leaves a positive impact on society. Let's harness the potential of web3 and smart contracts to create a world where prosperity is synonymous with social progress.
+
+### Bounties - ETHDublin x Webstudio
+
+We are are impressed! 💻🌐 The tool has got some fantastic features like drag-n-drop and no code UI development to interact with smart contracts. We have handed over a few suggestions for improvement. Overall, an excellent tool with room to grow! 
 

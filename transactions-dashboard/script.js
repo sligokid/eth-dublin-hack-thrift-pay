@@ -1,6 +1,6 @@
 const walletAddresses = new Map();
-//walletAddresses.set('irish-independent','0x21aac01c01d2ae1b721963a6896e236bff0d1e46');
-walletAddresses.set('irish-independent','0xd1f2b5692083830634669bfb9add5df60a6bfbf8');
+walletAddresses.set('irish-independent','0x21aac01c01d2ae1b721963a6896e236bff0d1e46');
+//walletAddresses.set('irish-independent','0xd1f2b5692083830634669bfb9add5df60a6bfbf8');
 walletAddresses.set('web-studio','0x5ca306c53a8e1b1cbf1981c79fd5522d3515139a');
 walletAddresses.set('garage','0x376901e10d4f1b45559491850495807fc5822ba1');
 
@@ -36,7 +36,7 @@ async function displayThriftPayTransactions() {
  
   async function getPolygonTransactions(walletAddress) {
     const apiKey = 'FN4Y5MBU56JVT1THM4A45I3ARCBXVC81EP';
-    const apiUrl = `https://api.polygonscan.com/api?module=account&action=txlist&address=${walletAddress}&sort=asc&apikey=${apiKey}`;
+    const apiUrl = `https://api-testnet.polygonscan.com/api?module=account&action=txlist&address=${walletAddress}&sort=asc&apikey=${apiKey}`;
   
     try {
       const response = await fetch(apiUrl);

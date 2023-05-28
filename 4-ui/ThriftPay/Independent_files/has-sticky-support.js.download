@@ -1,0 +1,1 @@
+define(["exports"],function(t){"use strict";t.__esModule=!0;var s=function(){return window.CSS&&CSS.supports&&(CSS.supports("position","sticky")||CSS.supports("position","-webkit-sticky"))};t.default=s});

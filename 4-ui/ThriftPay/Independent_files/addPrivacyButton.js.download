@@ -1,0 +1,1 @@
+define([],function(){"use strict";var e=document.createElement("a");e.onclick=function(e){e.preventDefault(),Didomi.preferences.show()},e.classList.add("privacy-button");var n=document.createElement("span");n.classList.add("icon-gear");var t=document.createElement("span");t.innerHTML="Privacy",e.appendChild(n),e.appendChild(t),document.querySelector("body").appendChild(e)});

@@ -1,0 +1,22 @@
+Webstudio 
+
+	Issues
+		- "Add To Canvas" didn't work from Studio AI. Prompt: Add 2 buttons "I rather Pay" and "Show me the Ad". Upon clicking "Show me the Ad", a modal popup shows up with a random image generated insite. The user cannot close the popup for 5 seconds from the moment "Show me the Ad" is clicked"
+		- No Bootstrap integration (only tailwind.css)
+		- Cannot view code behind
+		- Color picker (e.g. backgound) isn't working. Regardless of the area clicked on it will not keep the HTML color code.
+		- Cannot drag/drop components around on the canvas. Only next to another component
+		- Properties not holding values previously entered (e.g. Select textbox > properties > increase width to 400px > Close properties > enter properties again, width field is empty)
+		- Allow inserting custom JS code
+		- Allow complex interaction with smart contracts (call > read > action after receiving feedback)
+		
+	
+	
+	Recommendations
+		- Allow editing and copy/pasting code behind
+		- Import functionality (importing siles such as images/css/other)
+		- Add a simple Panel/div control to group many controls inside (e.g. easier to move all together, center, etc). The div seems to exist inside CTA options but not independently
+		- Show logs of errors to advanced users (e.g. why did "add canvas" not work?)
+		
+	
+	

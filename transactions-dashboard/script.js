@@ -1,6 +1,6 @@
 const walletAddresses = new Map();
 walletAddresses.set('irish-independent','0x21aac01c01d2ae1b721963a6896e236bff0d1e46');
-//walletAddresses.set('irish-independent','0xd1f2b5692083830634669bfb9add5df60a6bfbf8');
+//walletAddresses.set('irish-independent','0xc5542b6D93106c21765292C1fD8779c27ae98079');
 walletAddresses.set('web-studio','0x5ca306c53a8e1b1cbf1981c79fd5522d3515139a');
 walletAddresses.set('garage','0x376901e10d4f1b45559491850495807fc5822ba1');
 

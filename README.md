@@ -42,6 +42,7 @@ We are are impressed! 💻🌐 The tool has got some fantastic features like dra
 | Type   | Detail    |
 |-------------|-------------|
 | Webstudio URL |https://xdapp.webstudio.so/thriftpay |
+| Entry Point to the showcase | http://34.16.131.147:3000/ |
 | Smart Contract AddressL |xxxx |
 | Smart Contract AddressL |xxxx |
 | Smart Contract AddressL |xxxx |

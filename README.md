@@ -37,3 +37,12 @@ With the power of web3, individuals and organizations can actively participate i
 
 We are are impressed! 💻🌐 The tool has got some fantastic features like drag-n-drop and no code UI development to interact with smart contracts. We have handed over a few suggestions for improvement. Overall, an excellent tool with room to grow! 
 
+
+### Useful Artifacts
+| Type   | Detail    |
+|-------------|-------------|
+| Webstudio URL |https://xdapp.webstudio.so/thriftpay |
+| Smart Contract AddressL |xxxx |
+| Smart Contract AddressL |xxxx |
+| Smart Contract AddressL |xxxx |
+

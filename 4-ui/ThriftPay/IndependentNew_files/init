@@ -1,0 +1,57 @@
+(function () {var c = window.__tgconf = window.__tgconf || {};
+c.acId = 437;
+c.appId = 2025;
+c.publicId = 'MPROLFUG';
+c.sellerId = 'ITT9QOFP';
+c.domain = 'independent.ie';
+c.rootPath = 'https://services.insurads.com';
+c.instancePath = c.rootPath;
+c.messagingEnabled = 1;
+c.messagingPath = 'https://msg-0cc17bf077e27b4ae.insurads.com/rt-pub/node';
+c.defaultMessagingPath = 'https://messaging.insurads.com/rt-pub/node';
+c.sessionId = '67F7C4D93D4AD737';
+c.visitorId = c.sessionId;
+c.section = 2401;
+c.g_country = 'IE';
+c.g_region = 'L';
+c.d_type = 'Personal computer';
+c.d_browser = 'Chrome';
+c.d_os = 'Windows';
+c.znl = {"785354":{"tu":1,"conf":{"bottomHeight":0,"showDelay":0,"showCloseDelay":0,"sizes":[{"width":320,"height":50}]},"type":"bottom","dc":"mobile"},"785353":{"tu":1,"conf":{"bottomHeight":0,"showDelay":0,"showCloseDelay":0,"sizes":[{"width":728,"height":90}]},"type":"bottom","dc":"desktop,tablet"}};
+c.dads = 0;
+c.ivm = 0;
+c.integrations = {"dfp":{"networkCode":"7380"}};
+c.pid = 20;
+c.cookies = 0;
+c.allowLockedId = 0;
+c.noRefreshCreativeContent = '';
+c.stickyCloseButton = {};
+c.crm = '';
+c.controlHash = 'IEUEBAJOIM';
+c.pwt = { noCmpProfile: 14 };
+
+c.scn = '___iat_ses';
+c.scd = 1800;
+c.vcn = '___iat_vis';
+c.vcd = 15552000;
+c.ts = 1685179205009;
+
+
+var loadScripts = 1;
+if (loadScripts) {
+var s0 = document.createElement('script');
+s0.type = 'text/javascript';
+s0.async = true;
+s0.src = 'https://cdn.insurads.com/iat-realtime-7.0.5-ws.js';
+document.getElementsByTagName('HEAD')[0].appendChild(s0);
+
+var s1 = document.createElement('script');
+s1.type = 'text/javascript';
+s1.async = true;
+s1.src = 'https://cdn.insurads.com/iat-1.14.2.js';
+document.getElementsByTagName('HEAD')[0].appendChild(s1);
+}
+
+
+window.__tginitcb && window.__tginitcb();
+})();

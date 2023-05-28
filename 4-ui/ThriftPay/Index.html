@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Modal Popup Example</title>
+  <!-- Include Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container mt-5">
+    <h1>Modal Popup Example</h1>
+    <button class="btn btn-primary" data-toggle="modal" data-target="#myModal">Show me the Ad</button>
+    <button class="btn btn-secondary">I'd rather Pay</button>
+  </div>
+
+  <!-- Modal Popup -->
+  <div class="modal fade" id="myModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Ad Popup</h5>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <img id="adImage" src="" alt="Random Ad Image">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Include Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+  <script>
+    $(document).ready(function() {
+      // Handler for "Show me the Ad" button click
+      $(".btn-primary").click(function() {
+        // Generate a random image URL
+        var randomImageURL = "https://source.unsplash.com/random";
+
+        // Set the random image URL as the source for the adImage element
+        $("#adImage").attr("src", randomImageURL);
+
+        // Show the modal popup
+        $("#myModal").modal("show");
+
+        // Disable the close button for 5 seconds
+        setTimeout(function() {
+          $(".modal-header .close").prop("disabled", true);
+        }, 5000);
+      });
+    });
+  </script>
+</body>
+</html>

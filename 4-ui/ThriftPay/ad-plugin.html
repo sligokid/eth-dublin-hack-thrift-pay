@@ -1,0 +1,47 @@
+<script>
+    // Add an event listener to the "Connect" button
+    document.getElementById("showmetheadd_button").addEventListener("click", function() {
+        // Display an alert when the button is clicked
+        alert("Okay, show me the add now!");
+    });
+</script>
+
+<!-- Modal Popup -->
+<div class="modal fade" id="myModal">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+  <h5 class="modal-title">Ad Popup</h5>
+  <button type="button" class="close" data-dismiss="modal">&times;</button>
+</div>
+<div class="modal-body">
+  <img id="adImage" src="" alt="Random Ad Image">
+</div>
+</div>
+</div>
+</div>
+
+<!-- Include Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+<script>
+$(document).ready(function() {
+// Handler for "Show me the Ad" button click
+$(".btn-primary").click(function() {
+// Generate a random image URL
+var randomImageURL = "https://source.unsplash.com/random";
+
+// Set the random image URL as the source for the adImage element
+$("#adImage").attr("src", randomImageURL);
+
+// Show the modal popup
+$("#myModal").modal("show");
+
+// Disable the close button for 5 seconds
+setTimeout(function() {
+  $(".modal-header .close").prop("disabled", true);
+}, 5000);
+});
+});
+</script>

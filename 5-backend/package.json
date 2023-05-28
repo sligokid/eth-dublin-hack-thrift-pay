@@ -1,0 +1,21 @@
+{
+  "name": "thriftpay-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "account-abstraction",
+    "web3"
+  ],
+  "author": "Akash Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "@biconomy/smart-account": "^2.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}

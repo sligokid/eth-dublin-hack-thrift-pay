@@ -43,7 +43,6 @@ We are are impressed! 💻🌐 The tool has got some fantastic features like dra
 |-------------|-------------|
 | Webstudio URL |https://xdapp.webstudio.so/thriftpay |
 | Entry Point to the showcase | http://34.16.131.147:3000/ |
-| Smart Contract AddressL |xxxx |
-| Smart Contract AddressL |xxxx |
-| Smart Contract AddressL |xxxx |
-
+| Mumbai Testnet SC Address (ThriftPayCore) |0x307FBc2Ed4FF911A0F50aCB773D263D1e91FFD09 |
+| Mumbai Testnet SC Address (PlatformAd) |0x6cE0A07B71eEb7363A76F32d16AD68C404b1565B |
+| Mumbai Testnet SC Address (AdRewards) |0x9eF24bCFCfE25F4e165bb11b7f23429891c86492 |

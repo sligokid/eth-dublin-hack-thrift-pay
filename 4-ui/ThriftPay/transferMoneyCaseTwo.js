@@ -1,4 +1,4 @@
-async function callSmartContract() {
+async function callSmartContractSkipAd() {
 
     // const walletAddress = '0xDC5354b38E8EeEA6328cB66747C19b807041C269';
     // const eoaTransactions = await getPolygonTransactions(walletAddress);
@@ -7,7 +7,7 @@ async function callSmartContract() {
 
     //alert('calling smart contract: ' + eoaTransactions.length);
    
-    const url = 'http://130b-89-101-154-45.ngrok-free.app/advertisement/view-ad-platform';
+    const url = 'http://130b-89-101-154-45.ngrok-free.app/advertisement/skip-ad';
     const data = {
         name: 'John Doe',
         email: 'johndoe@example.com'
